@@ -1,0 +1,1 @@
+content based image retrieval, based on two main descriptors(and 4 different disntance measures); Glcm and BiT, the later being maintained and contributed to by Steve Ataky
